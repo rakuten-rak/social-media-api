@@ -1,0 +1,15 @@
+# TO ENABLE GO TO PALLETE->EXTENSION->PYTHON->FORMATTING PROVIDER SELECT BLACK -> 
+# UP TO THE SETTING.JSON ADD "python.formatting.provider:black
+
+ruff
+black
+isort
+pytest
+httpx
+anyio
+pytest-asyncio
+pytest-tornasync
+pytest-trio
+pytest-twisted
+twisted
+pytest-mock
