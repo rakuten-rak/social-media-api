@@ -1,0 +1,10 @@
+2025-04-18T17:27:31.289Z | INFO     | storeapi.main: 16 - fastapi
+2025-04-18T17:27:31.444Z | INFO     | uvicorn.error: 62 - Application startup complete.
+2025-04-18T17:27:31.471Z | INFO     | uvicorn.error: 215 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-04-18T17:28:25.305Z | INFO     | uvicorn.error: 263 - Shutting down
+2025-04-18T17:28:25.410Z | INFO     | uvicorn.error: 67 - Waiting for application shutdown.
+2025-04-18T17:28:25.413Z | INFO     | uvicorn.error: 76 - Application shutdown complete.
+2025-04-18T17:28:25.416Z | INFO     | uvicorn.error: 93 - Finished server process [72078]
+{"asctime": "2025-04-18T19:21:09", "msecs": 193.0, "levelname": "INFO", "correlation_id": "-", "name": "storeapi.main", "lineno": 21, "message": "fastapi"}
+{"asctime": "2025-04-18T19:21:09", "msecs": 208.0, "levelname": "INFO", "correlation_id": "-", "name": "uvicorn.error", "lineno": 62, "message": "Application startup complete."}
+{"asctime": "2025-04-18T19:21:09", "msecs": 228.0, "levelname": "INFO", "correlation_id": "-", "name": "uvicorn.error", "lineno": 215, "message": "Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)", "color_message": "Uvicorn running on \u001b[1m%s://%s:%d\u001b[0m (Press CTRL+C to quit)"}
